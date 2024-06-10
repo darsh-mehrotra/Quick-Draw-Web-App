@@ -1,0 +1,25 @@
+body {
+    background-color: lightgreen;
+}
+#confidence{
+    font-size: large;
+}
+#your_sketch{
+    font-size: large;
+}
+#sketch_to_be_drawn {
+    color:red;
+    font-size: x-large;
+}
+#timer {
+    margin-left: 500;
+    font-size: medium;
+    font-weight: bolder;
+}
+#score {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+
+
